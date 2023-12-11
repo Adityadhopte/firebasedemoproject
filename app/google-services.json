@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997980042724",
+    "project_id": "fir-ex3p",
+    "storage_bucket": "fir-ex3p.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997980042724:android:4d3c49258fff680b9f03f1",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemoproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaBkh7cihBdUV_MxLGkkCy3C5FvQKUpd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
